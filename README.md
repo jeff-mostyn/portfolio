@@ -5,6 +5,7 @@ This repository is intended to be an ongoing collection of code I have written a
 I feel to be a good representation of myself and my skills. When possible and useful, I will also include gifs or
 other examples to show the operation of the code in practice.
 
+
 Current Contents:
 
 Sons of Ra - a game developed and published by myself and classmates from college. Originally a class project, after
